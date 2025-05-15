@@ -1,1 +1,0 @@
-# Natural-Disaster-Prediction-And-Management
